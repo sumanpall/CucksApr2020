@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="batchRun.TestRun" time="51.639" errors="0" skipped="0">
+  <properties>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="LOGONSERVER" value="\\SGPDC3210"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_201\jre"/>
+    <property name="RPA_ALLUSERS_APPDATA" value="C:\ProgramData\TRICENTIS\RPA\1.0.0"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="LG_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="JENKINS_URL" value="http://localhost:5666/"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\endorsed"/>
+    <property name="OneDriveCommercial" value="C:\Users\suman.palle\OneDrive - Accenture"/>
+    <property name="PSModulePath" value="%ProgramFiles%\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft Azure Information Protection\Powershell"/>
+    <property name="=::" value="::\"/>
+    <property name="USERDOMAIN" value="DIR"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.version" value="1.8.0_201"/>
+    <property name="JOB_NAME" value="cucumapr212020"/>
+    <property name="COMPUTERNAME" value="HDC2-L-2CF7QQ2"/>
+    <property name="MSJAVA_ENABLE_MONITORS" value="1"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="user.name" value="suman.palle"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 158 Stepping 9, GenuineIntel"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="LOCALAPPDATA" value="C:\Users\suman.palle\AppData\Local"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:5666/job/cucumapr212020/3/display/redirect?page=changes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="user.script" value=""/>
+    <property name="path.separator" value=";"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="BUILD_TAG" value="jenkins-cucumapr212020-3"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="LOG_FILE" value="C:\Users\SUMAN~1.PAL\AppData\Local\Temp\\ihp_custom_batches.log"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Softwares\Maven\apache-maven-3.5.0 C:\Jenkins\war\WEB-INF\lib\remoting-3.21.1.jar C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 2709"/>
+    <property name="HUDSON_URL" value="http://localhost:5666/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="ceca2a0378f72469"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_201/bin;C:\Program Files (x86)\HP\NV\lib\shunra\vcat;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite;C:\Tosca_Projects;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\GuptaEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DelphiEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\PBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\VBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DotNetHooking;;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Resources\Mobile\Tools;C:\Ruby25-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Softwares\Maven\apache-maven-3.5.0\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\HPE\Unified Functional Testing\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\PuTTY\;C:\Program Files (x86)\scala\bin;C:\Program Files (x86)\HP\LoadRunner\strawberry-perl\perl\bin;C:\Program Files (x86)\HP\NV\lib\thirdparty\safenet\LDK\7.0;C:\Program Files (x86)\HP\NV\lib\shunra\snv;C:\Users\suman.palle\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\suman.palle\AppData\Local\Programs\Python\Python38\;C:\Users\suman.palle\AppData\Local\Microsoft\WindowsApps;C:\Users\suman.palle\AppData\Local\Programs\Git\cmd;C:\Users\suman.palle\AppData\Local\atom\bin;C:\Users\suman.palle\AppData\Roaming\npm;C:\Users\suman.palle\AppData\Local\Microsoft\WindowsApps;C:\Users\suman.palle\AppData\Local\Programs\Microsoft VS Code\bin"/>
+    <property name="java.io.tmpdir" value="C:\Users\SUMAN~1.PAL\AppData\Local\Temp\"/>
+    <property name="APPDATA" value="C:\Users\suman.palle\AppData\Roaming"/>
+    <property name="user.language" value="en"/>
+    <property name="TBOX_HOME" value="C:\Program Files (x86)\TRICENTIS\RPA Studio\TBox\"/>
+    <property name="_classload_hook" value="jvmhook"/>
+    <property name="line.separator" value="
+"/>
+    <property name="BUILD_URL" value="http://localhost:5666/job/cucumapr212020/3/"/>
+    <property name="TESSDATA_PREFIX" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ocr"/>
+    <property name="IBM_JAVA_OPTIONS" value="-Xbootclasspath/a:&quot;C:\Program Files (x86)\HPE\Unified Functional Testing\bin\java_shared\classes\jasmine.jar&quot;"/>
+    <property name="M2_HOME" value="C:\Softwares\Maven\apache-maven-3.5.0"/>
+    <property name="TRICENTIS_SEARCH" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\GuptaEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DelphiEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\PBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\VBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DotNetHooking;"/>
+    <property name="=C:" value="C:\Softwares"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="ceca2a0378f72469"/>
+    <property name="MAVEN_HOME" value="C:\Softwares\Maven\apache-maven-3.5.0"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="maven3.interceptor.common" value="C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="ANALYSIS_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="ST_INSTALL_PATH" value="C:\Program Files (x86)\HPE\Unified Functional Testing\"/>
+    <property name="HOMEPATH" value="\Users\suman.palle"/>
+    <property name="TRICENTIS_ALLUSERS_APPDATA" value="C:\ProgramData\TRICENTIS\TOSCA Testsuite\7.0.0"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="3"/>
+    <property name="maven3.interceptor" value="C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_201\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Softwares\Maven\apache-maven-3.5.0/bin;C:\Program Files\Java\jdk1.8.0_201/bin;C:\Program Files\Java\jdk1.8.0_201/bin;C:\Program Files (x86)\HP\NV\lib\shunra\vcat;C:\Program Files (x86)\Scripts\;C:\Program Files (x86)\;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite;C:\Tosca_Projects;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\GuptaEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DelphiEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\PBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\VBEngine;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\dll\DotNetHooking;;C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\Resources\Mobile\Tools;C:\Ruby25-x64\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Softwares\Maven\apache-maven-3.5.0\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files (x86)\HPE\Unified Functional Testing\bin;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\PuTTY\;C:\Program Files (x86)\scala\bin;C:\Program Files (x86)\HP\LoadRunner\strawberry-perl\perl\bin;C:\Program Files (x86)\HP\NV\lib\thirdparty\safenet\LDK\7.0;C:\Program Files (x86)\HP\NV\lib\shunra\snv;C:\Users\suman.palle\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\suman.palle\AppData\Local\Programs\Python\Python38\;C:\Users\suman.palle\AppData\Local\Microsoft\WindowsApps;C:\Users\suman.palle\AppData\Local\Programs\Git\cmd;C:\Users\suman.palle\AppData\Local\atom\bin;C:\Users\suman.palle\AppData\Roaming\npm;C:\Users\suman.palle\AppData\Local\Microsoft\WindowsApps;C:\Users\suman.palle\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="POM_GROUPID" value="cucumLat16Apr2020"/>
+    <property name="POM_ARTIFACTID" value="cucumLat16Apr2020"/>
+    <property name="QT_USE_NATIVE_WINDOWS" value="1"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="JOB_URL" value="http://localhost:5666/job/cucumapr212020/"/>
+    <property name="OneDrive" value="C:\Users\suman.palle\OneDrive - Accenture"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:5666/job/cucumapr212020/3/display/redirect"/>
+    <property name="NODE_HOME" value="C:\Program Files\nodejs"/>
+    <property name="JENKINS_HOME" value="C:\Jenkins"/>
+    <property name="BUILD_ID" value="3"/>
+    <property name="TEMP" value="C:\Users\SUMAN~1.PAL\AppData\Local\Temp"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\bin"/>
+    <property name="VUGEN_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="user.variant" value=""/>
+    <property name="PROCESSOR_REVISION" value="9e09"/>
+    <property name="TRICENTIS_PROJECTS" value="C:\Tosca_Projects"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="HUDSON_HOME" value="C:\Jenkins"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="PATH+MAVEN" value="C:\Softwares\Maven\apache-maven-3.5.0/bin"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DIR"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_201"/>
+    <property name="RPA_PROJECTS" value="C:\RPA_Projects"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="USERPROFILE" value="C:\Users\suman.palle"/>
+    <property name="TRICENTIS_HOME" value="C:\Program Files (x86)\TRICENTIS\Tosca Testsuite"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:5666/job/cucumapr212020/display/redirect"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\suman.palle"/>
+    <property name="USERNAME" value="suman.palle"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERDNSDOMAIN" value="DIR.SVC.ACCENTURE.COM"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="user.dir" value="C:\Users\suman.palle\eclipse-workspace\cucumLat16Apr2020"/>
+    <property name="maven.conf" value="C:\Softwares\Maven\apache-maven-3.5.0\conf"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="TMP" value="C:\Users\SUMAN~1.PAL\AppData\Local\Temp"/>
+    <property name="UATDATA" value="C:\windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
+    <property name="_JAVA_OPTIONS" value="-Xbootclasspath/a:&quot;C:\Program Files (x86)\HPE\Unified Functional Testing\bin\java_shared\classes\jasmine.jar&quot;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="RPA_HOME" value="C:\Program Files (x86)\TRICENTIS\RPA Studio\RPA"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vm.version" value="25.201-b09"/>
+    <property name="java.class.path" value="C:\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Softwares\Maven\apache-maven-3.5.0\boot\plexus-classworlds-2.5.2.jar;C:\Softwares\Maven\apache-maven-3.5.0/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="JAVA_TOOL_OPTIONS" value="-agentlib:jvmhook"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="WORKSPACE" value="C:\Jenkins\workspace\cucumapr212020"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="\"/>
+    <property name="LR_PATH" value="C:\Program Files (x86)\HP\LoadRunner\"/>
+    <property name="QIP10672" value="0"/>
+    <property name="java.runtime.version" value="1.8.0_201-b09"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_201\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_201\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_201\jre\classes;C:\Program Files (x86)\HPE\Unified Functional Testing\bin\java_shared\classes\jasmine.jar"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_201/bin"/>
+    <property name="user.country" value="US"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="C:\Softwares\Maven\apache-maven-3.5.0"/>
+    <property name="JOB_BASE_NAME" value="cucumapr212020"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="cucumLat16Apr2020"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+  </properties>
+  <testcase classname="Refund return policy" name="App SignIn" time="51.639"/>
+</testsuite>

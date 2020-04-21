@@ -1,0 +1,85 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "operator logged into the system",
+            "match": {
+              "location": "defineStep.StepDefine.operator_logged_into_the_system()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-04-21T04:43:50.384Z",
+        "line": 27,
+        "name": "App SignIn",
+        "description": "",
+        "id": "refund-return-policy;app-signin",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 49908000000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User provides valid credentials",
+            "match": {
+              "location": "defineStep.StepDefine.user_provides_valid_credentials()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "SignIn is successful",
+            "match": {
+              "location": "defineStep.StepDefine.signin_is_successful()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@f1"
+          },
+          {
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "Refund return policy",
+    "description": "",
+    "id": "refund-return-policy",
+    "keyword": "Feature",
+    "uri": "file:aprdemo.feature",
+    "tags": [
+      {
+        "name": "@f1",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
